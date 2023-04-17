@@ -165,8 +165,8 @@ Als je in de vorige fase een definitief onderwerp gekozen hebt, kan je de inleid
 
 ## Checklist
 
-- [ ] De nodige software is geïnstalleerd.
-- [ ] De basisinstellingen van Git zijn waar nodig aangepast. Bij een commit naar Github is duidelijk wie de auteur is.
-- [ ] TeXstudio of VS Code zijn geconfigureerd voor gebruik.
-- [ ] Het sjabloon compileert zonder fouten, in de PDF is ook de (voorbeeld-)bibliografie opgenomen.
-- [ ] De inleiding van jouw onderwerp is geschreven.
+- [x] De nodige software is geïnstalleerd.
+- [x] De basisinstellingen van Git zijn waar nodig aangepast. Bij een commit naar Github is duidelijk wie de auteur is.
+- [x] TeXstudio of VS Code zijn geconfigureerd voor gebruik.
+- [x] Het sjabloon compileert zonder fouten, in de PDF is ook de (voorbeeld-)bibliografie opgenomen.
+- [x] De inleiding van jouw onderwerp is geschreven.
